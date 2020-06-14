@@ -40,6 +40,10 @@ public class SimpleInterestCalculatorforPMD implements InterestCalculator {
 		
 		
 		}
+	
+	public void myEmptyMethod() {
+		
+	}
 
 }
 
